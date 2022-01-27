@@ -1,0 +1,7 @@
+grpc:
+  netty:
+    bossGroupThreads: 1
+    workerGroupThreads: 8
+    sameBossAndWorkerGroup: false
+    useDirectExecutor: false
+    executorThreads: 160
