@@ -1,7 +1,6 @@
 Install dependencies
 
 ```shell
-cd node/
 yarn install
 ```
 
